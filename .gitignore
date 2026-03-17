@@ -1,0 +1,39 @@
+# Data files (too large for GitHub)
+data/creditcard.csv
+data/creditcard_raw.csv
+data/users.json
+
+# Trained models (large binary files)
+models/*.pkl
+
+# Generated plots (can be regenerated)
+plots/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pyre
+.pyre/
+.pyre_configuration
