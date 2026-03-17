@@ -3,9 +3,6 @@ data/creditcard.csv
 data/creditcard_raw.csv
 data/users.json
 
-# Trained models (large binary files)
-models/*.pkl
-
 # Generated plots (can be regenerated)
 plots/
 
